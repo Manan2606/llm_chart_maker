@@ -8,8 +8,8 @@ Deployed on **Vercel** (free hosting).
 
 ## 🚀 Demo
 
-- Live App: <YOUR_VERCEL_URL>
-- GitHub Repo: <YOUR_REPO_URL>
+- Live App: llm-chart-maker-xabj-2fhui1210-manans-projects-b041c076.vercel.app
+- GitHub Repo: https://github.com/Manan2606/llm_chart_maker
 
 ---
 
