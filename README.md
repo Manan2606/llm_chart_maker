@@ -75,21 +75,6 @@ Mermaid → renders interactive chart in the browser.
 
 Export → user can copy SVG or download PNG.
 
-📂 File Structure
-llm-chart-maker/
-├── app/
-│ ├── api/generate/route.ts # Node.js API route (Groq LLM)
-│ ├── components/MermaidView.tsx
-│ ├── layout.tsx
-│ └── page.tsx # Main UI
-├── styles/globals.css # Styling
-├── .env.example
-├── package.json
-├── tsconfig.json
-├── next.config.mjs
-├── README.md
-└── .gitignore
-
 ✅ Submission Checklist
 
 Live Vercel app link
