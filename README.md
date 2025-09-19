@@ -61,6 +61,16 @@ Import project in Vercel.
 
 Add GROQ_API_KEY under Project → Settings → Environment Variables.
 
+OR
+
+To run the project with your key:
+
+Create a file named .env.local in the root folder.
+
+Add your key inside it like this:
+
+GROQ_API_KEY=sk-proj-xxxxxxxx
+
 Deploy → you’ll get a live URL.
 
 🧠 How It Works
